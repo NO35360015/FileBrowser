@@ -1,1 +1,1 @@
-www.lxg2016.com    APPS XML发布地址
+FileBrowser  APPS XML发布地址
